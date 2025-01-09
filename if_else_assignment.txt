@@ -1,0 +1,17 @@
+26. **Calculate Income Tax:** Given an annual income, calculate the income tax based on tax brackets.
+27. **Determine Eligibility:** Given an age and a country, determine if a person is eligible to vote.
+28. **Check for Valid Date:** Given a month, day, and year, check if it's a valid date.
+29. **Check for Valid Time:** Given an hour, minute, and second, check if it's a valid time.
+30. **Calculate Shipping Cost:** Given the weight of a package, calculate the shipping cost based on weight ranges.
+31. **Determine Season:** Given a month, determine the season (spring, summer, fall, winter).
+32. **Check for Valid Password:** Given a password, check if it meets certain criteria (length, complexity).
+33. **Determine Eligibility for Discount:** Given a customer's age and purchase amount, determine if they are eligible for a discount.
+34. **Check for Valid Email:** Given an email address, check if it contains the "@" symbol.
+35. **Check for Valid Phone Number:** Given a phone number, check if it starts with a specific area code.
+36. **Determine Day of the Week (More Complex):** Given a date (month, day, year), determine the day of the week (Sunday, Monday, etc.). 
+37. **Calculate BMI:** Given a person's height and weight, calculate their BMI and determine their weight category.
+38. **Check for Valid Triangle Type:** Given three sides of a triangle, determine if it's an equilateral, isosceles, or scalene triangle.
+39. **Determine Winner in a Game:** Given the scores of two players, determine the winner of the game.
+40. **Calculate Electricity Bill:** Given the number of units consumed, calculate the electricity bill based on a tiered pricing system.
+
+-------------------------------------------------HINTS-------------------------------------------------------
