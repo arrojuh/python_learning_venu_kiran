@@ -1,0 +1,60 @@
+
+1. Print Numbers from 1 to 10
+Write a program using a `while` loop to print numbers from 1 to 10.
+
+2. Sum of Numbers Until Zero
+Write a program that continuously takes user input and adds the numbers until the user enters 0. Use a `while` loop.
+Example Input:
+5, 3, -2, 0
+Output:
+Sum: 6
+
+3. Reverse a String
+Write a program to reverse a string using a `while` loop.
+Example Input:
+text = "Python"
+Output:
+"nohtyP"
+
+4. Guess the Number Game
+Implement a game where the program generates a random number between 1 and 10, and the user has to guess it. Keep prompting until the guess is correct.
+
+5. Count Down Timer
+Write a `while` loop to implement a countdown timer from a given number to 0.
+Example Input:
+n = 5
+Output:
+5, 4, 3, 2, 1, 0
+
+6. Find the First Negative Number
+Given a list of numbers, use a `while` loop to find the first negative number.
+Example Input:
+numbers = [3, 5, 7, -2, 4]
+Output:
+First negative: -2
+
+7. Check if a Number is Prime
+Write a `while` loop to check if a number is prime.
+Example Input:
+n = 7
+Output:
+True
+
+8. Factorial Calculation
+Write a program that calculates the factorial of a number using a `while` loop.
+Example Input:
+n = 5
+Output:
+Factorial: 120
+
+9. Generate Fibonacci Sequence
+Write a `while` loop to generate the Fibonacci sequence up to `n` terms.
+Example Input:
+n = 7
+Output:
+0, 1, 1, 2, 3, 5, 8
+
+10. Simulate a Die Roll Until a Six
+Write a program that simulates rolling a die until a six is rolled, using a `while` loop. Display each roll.
+Example Output:
+Rolls: 3, 5, 2, 6

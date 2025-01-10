@@ -1,0 +1,71 @@
+
+1. Print Multiples of a Number
+Write a program that prints all multiples of 3 between 1 and 50 using a `for` loop.
+
+2. Sum of Elements in a List
+Given a list of numbers, write a `for` loop to calculate and print the sum of all the elements.
+Example Input:
+numbers = [1, 2, 3, 4, 5]
+Output:
+Sum: 15
+
+3. Reverse a String
+Write a program to reverse a string using a `for` loop.
+Example Input:
+text = "Python"
+Output:
+"nohtyP"
+
+4. Find the Largest Number
+Given a list of integers, use a `for` loop to find and print the largest number in the list.
+Example Input:
+numbers = [10, 20, 30, 5, 40]
+Output:
+Largest: 40
+
+5. Count Vowels in a String
+Write a `for` loop to count the number of vowels in a given string.
+Example Input:
+text = "hello world"
+Output:
+Vowel count: 3
+
+6. Factorial Calculation
+Write a program that calculates the factorial of a given number using a `for` loop.
+Example Input:
+n = 5
+Output:
+Factorial: 120
+
+7. Find Common Elements
+Write a `for` loop to find the common elements between two lists.
+Example Input:
+list1 = [1, 2, 3, 4, 5]
+list2 = [3, 4, 5, 6, 7]
+Output:
+Common elements: [3, 4, 5]
+
+8. Generate a Number Pyramid
+Write a program to generate a pyramid of numbers based on user input.
+Example Input:
+n = 4
+Output:
+1
+12
+123
+1234
+
+9. Check for Palindromes
+Write a program to check if each word in a given list is a palindrome using a `for` loop.
+Example Input:
+words = ["madam", "python", "racecar", "hello"]
+Output:
+madam: True
+python: False
+racecar: True
+hello: False
+
+10. FizzBuzz
+Implement the classic FizzBuzz problem: Print numbers from 1 to 50, but for multiples of 3 print "Fizz" instead of the number, for multiples of 5 print "Buzz," and for multiples of both 3 and 5 print "FizzBuzz."
+Output:
+1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, ...
